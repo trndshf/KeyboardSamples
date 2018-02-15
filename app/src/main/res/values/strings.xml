@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyborad Samples</string>
+    <string name="show">Tampilkan</string>
+    <string name="enter">Masukan Nomor Telepon</string>
+</resources>
